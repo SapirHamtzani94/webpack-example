@@ -1,0 +1,19 @@
+{
+  "name": "webpack-example-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^5.80.0",
+    "webpack-cli": "^5.0.2"
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "webpack-bundle-analyzer": "^4.8.0"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC"
+}
